@@ -1,0 +1,5 @@
+## Interface: 80200
+## Title: Hello, World!
+## Notes: My first AddOn
+HelloWorld.lua
+HelloWorld.xml
